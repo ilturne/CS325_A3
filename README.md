@@ -1,26 +1,29 @@
-# Norlin
+# GitHub Pages Project
 
-Norlin is a creative modern theme with a clean design specially created for dark themes lovers.
-
-Norlin theme is fully responsive and looks great on mobile devices and has a beautiful and modern design that is best suited for your personal or corporate blog. You can easily customize the theme by changing the accent colors, the arrangement of the widgets, etc.
+This project is my first venture into using GitHub Pages, aimed at showcasing and learning the basics of web development. As I continue to learn more, this page will evolve and improve.
 
 * * *
 
-### Demo
+### Introduction
 
-Check the theme in action [Demo](https://norlin.netlify.app/)
+Welcome to my GitHub Pages project! This page is designed to be a work in progress as I delve deeper into the world of web development. It's a space for experimentation and learning, reflecting my journey from beginner to more advanced stages.
 
 * * *
 
 ### Deployment
 
-To run the theme locally, navigate to the theme directory and run `bundle install` to install the dependencies, then run `bundle exec jekyll serve` to start the Jekyll server.
-
-I would recommend checking the [Deployment Methods](https://jekyllrb.com/docs/deployment-methods/) page on Jekyll website.
-
+To set up this project locally, navigate to the project directory and run `bundle install` to install the necessary dependencies. After that, use `bundle exec jekyll serve` to start the Jekyll server. This setup allows you to see the changes in real-time as you develop your site.
 
 * * *
 
-### Documentation
+### Learning Goals
 
-Before using the Norlin theme, please read the attached documentation.
+1. **Understand GitHub Pages**: Learn how to create and deploy a website using GitHub Pages.
+2. **Web Development Basics**: Get hands-on experience with HTML, CSS, and basic JavaScript.
+3. **Continuous Improvement**: Keep updating and refining the website as my skills grow.
+
+* * *
+
+### Future Updates
+
+This page will continuously evolve as I learn more about web development. Stay tuned for updates and improvements as I progress on this exciting journey!
