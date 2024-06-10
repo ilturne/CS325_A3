@@ -4,7 +4,7 @@ title:  Professional Enginneering Work
 description: This artical displays my professional engineering work including past internships, projects, and research.
 date:   2024-10-06 15:01:35 +0300
 image:  '/images/10.jpg'
-tags:   [Work, Research, Projects]
+tags:   [Life, Rest]
 featured: true
 ---
 This is a sample post for the Professional Engineering Work page. This page will display my professional engineering work including past internships, projects, and research. This page will be updated as I complete more projects and internships. This page is not yet complete, but will be updated soon.
