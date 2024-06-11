@@ -3,7 +3,7 @@ layout: post
 title:  Etheral Perspectives
 description: This artical describes my journey to starting a photography company from how the idea was born to the first photoshoot.
 date:   2024-06-10 17:01:35 +0300
-image:  '/images/100.jpg'
+image:  '/images/ether-perspectives.jpg'
 tags:   [Life, Story, Work]
 ---
 Sin tantum modo ad indicia veteris memoriae cognoscenda, curiosorum. Haec et tu ita posuisti, et verba vestra sunt. Idemne potest esse dies saepius, qui semel fuit? Ampulla enim sit necne sit, quis non iure optimo irrideatur, si laboret? Ego vero volo in virtute vim esse quam maximam; Serpere anguiculos, nare anaticulas, evolare merulas, cornibus uti videmus boves, nepas aculeis. Conferam tecum, quam cuique verso rem subicias. Si longus, levis ampulla enim sit necne vel omnia vel partes genere plurima et maxima.

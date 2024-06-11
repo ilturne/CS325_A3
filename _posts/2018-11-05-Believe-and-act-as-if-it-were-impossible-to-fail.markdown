@@ -3,7 +3,7 @@ layout: post
 title:  Professional Enginneering Work
 description: This artical displays my professional engineering work including past internships, projects, and research.
 date:   2024-10-06 15:01:35 +0300
-image:  '/images/10.jpg'
+image:  '/images/cs.jpg'
 tags:   [Life, Rest]
 featured: true
 ---
