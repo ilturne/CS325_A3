@@ -3,7 +3,7 @@ layout: post
 title:  The way I see it, every life is a pile of good things
 description: Sin tantum modo ad indicia veteris memoriae cognoscenda, curiosorum. Haec et tu ita posuisti, et verba vestra sunt. Idemne potest esse dies...
 date:   2018-10-31 15:01:35 +0300
-image:  '/images/11.jpg'
+image:  '/images/cs.jpg'
 tags:   [Life, Rest]
 featured: true
 ---
