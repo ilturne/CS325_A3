@@ -3,7 +3,7 @@ layout: post
 title:  Everything has beauty, but not everyone can see
 description: Sin tantum modo ad indicia veteris memoriae cognoscenda, curiosorum. Haec et tu ita posuisti, et verba vestra sunt. Idemne potest esse dies...
 date:   2018-05-29 18:05:55 +0300
-image:  '/images/12.jpg'
+image:  '/images/cs.jpg'
 tags:   [Fashion, Story]
 featured: true
 ---

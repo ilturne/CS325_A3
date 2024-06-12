@@ -6,7 +6,7 @@ date:   2024-06-10 17:01:35 +0300
 image:  '/images/ether-perspectives.jpg'
 tags:   [Life, Story, Work]
 ---
-Sin tantum modo ad indicia veteris memoriae cognoscenda, curiosorum. Haec et tu ita posuisti, et verba vestra sunt. Idemne potest esse dies saepius, qui semel fuit? Ampulla enim sit necne sit, quis non iure optimo irrideatur, si laboret? Ego vero volo in virtute vim esse quam maximam; Serpere anguiculos, nare anaticulas, evolare merulas, cornibus uti videmus boves, nepas aculeis. Conferam tecum, quam cuique verso rem subicias. Si longus, levis ampulla enim sit necne vel omnia vel partes genere plurima et maxima.
+I started Etheral Perspectives in 2022 after a photography class I took freshmen year of college. I have always been passionate about photography 
 
 > The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
 >
