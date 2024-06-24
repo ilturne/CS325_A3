@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  That which does not kill us makes us stronger
-description: Sin tantum modo ad indicia veteris memoriae cognoscenda, curiosorum. Haec et tu ita posuisti, et verba vestra sunt. Idemne potest esse dies...
+title:  Outside Hobbies
+description: This post explores my love for nature and the outdoors, and how I spend my free time.
 date:   2018-11-13 15:01:35 +0300
 image:  '/images/cs.jpg'
 tags:   [Business, Work]

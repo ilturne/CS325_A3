@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Strive not to be a success, but rather to be of value
-description: Sin tantum modo ad indicia veteris memoriae cognoscenda, curiosorum. Haec et tu ita posuisti, et verba vestra sunt. Idemne potest esse dies...
+title:  Template
+description: This post is a general template for creating new posts. You can ignore it.
 date:   2024-04-24 15:01:35 +0300
 image:  '/images/cs.jpg'
 tags:   [Work, Technology]
