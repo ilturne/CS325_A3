@@ -5,7 +5,7 @@ description: I find joy in so many activities that enrich my days and fulfill me
 date:   2024-06-24 15:01:35 +0300
 image:  '/images/Personal-life.jpg'
 tags:   [Life]
-featured: true
+featured: false
 ---
 **Personal Life**
 

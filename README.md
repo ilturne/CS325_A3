@@ -12,7 +12,7 @@ Welcome to my GitHub Pages project! This page is designed to be a work in progre
 
 ### Deployment
 
-To set up this project locally, navigate to the project directory and run `bundle install` to install the necessary dependencies. After that, use `bundle exec jekyll serve` to start the Jekyll server. This setup allows you to see the changes in real-time as you develop your site.
+To set up this project locally, first you need to have ruby installed. Then navigate to the project directory and run `bundle install` to install the necessary dependencies. After that, use `bundle exec jekyll serve` to start the Jekyll server. This setup allows you to see the changes in real-time as you develop your site.
 
 * * *
 
