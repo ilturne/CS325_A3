@@ -56,7 +56,6 @@ permalink: pretty
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-tagging
 
 kramdown:
   parse_block_html: true
