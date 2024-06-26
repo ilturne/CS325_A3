@@ -93,7 +93,6 @@ DEPENDENCIES
   jekyll
   jekyll-paginate
   jekyll-sitemap
-  jekyll-tagging
 
 BUNDLED WITH
    2.2.3
