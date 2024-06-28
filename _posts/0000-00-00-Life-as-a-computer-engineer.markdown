@@ -4,7 +4,7 @@ title:  Life as a Computer Engineer
 description: This post explores my experiences, challenges, and successes as a Computer Engineering student.
 date:   2024-06-24 15:01:35 +0300
 image:  '/images/CE.jpg'
-tags:   [Lifestyle, Rest, Nature]
+tags:   []
 ---
 **Life as a Computer Engineering Student at SIUE**
 

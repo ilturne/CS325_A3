@@ -4,7 +4,7 @@ title:  Personal Life
 description: I find joy in so many activities that enrich my days and fulfill me. Here are some of my passions.
 date:   2024-06-24 15:01:35 +0300
 image:  '/images/Personal-life.jpg'
-tags:   [Life]
+tags:   []
 featured: false
 ---
 **Personal Life**
